@@ -1,16 +1,39 @@
-### Hi there 👋
-
-<!--
-**Loganv308/Loganv308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 I’m currently learning Mobile App Development, SQL, Java.
+💬 Ask me about C++, C#, Java, Python, SQL, DevOps, Career Advice.
+👨‍💻 All of my projects are available at https://github.com/Loganv308
+📫 How to reach me loganv308@gmail.com / velierl@lakeland.edu
+Languages and Tools:
+android
+angular
+aws
+azure
+c
+canvasjs
+cplusplus
+csharp
+css3
+django
+docker
+dotnet
+express
+firebase
+flask
+graphql
+html5
+java
+javascript
+jenkins
+mongodb
+mssql
+mysql
+nodejs
+oracle
+postgresql
+python
+rails
+ruby
+scala
+spring
+sqlite
+tensorflow
+vuejs
