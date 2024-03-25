@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Mobile App Development, SQL, Java.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Loganv308](https://github.com/Loganv308)
+- 👨‍💻 All of my projects are available at [https://github.com/Loganv308](https://github.com/Loganv308?tab=repositories)
 
 - 💬 Ask me about **C++, C#, Java, Python, SQL, DevOps, JS.**
 
