@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Loganv308](https://github.com/Loganv308)
 
-- 💬 Ask me about **C++, C#, Java, Python, SQL, DevOps, Career Advice.**
+- 💬 Ask me about **C++, C#, Java, Python, SQL, DevOps, JS.**
 
 - 📫 How to reach me **loganv308@gmail.com / velierl@lakeland.edu**
 
