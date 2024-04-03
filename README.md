@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Logan Velier</h1>
 <h3 align="center">A passionate Backend developer from Wisconsin</h3>
 
-- 🌱 I’m currently learning **Mobile App Development, SQL, Java.**
+- 🌱 I’m currently learning **SQLite3, Java, Javascript, Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Loganv308](https://github.com/Loganv308?tab=repositories)
 
