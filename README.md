@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **loganv308@gmail.com**
 
-<h2 align="left">Connect with me: https://www.linkedin.com/in/logan-velier-42a308163</h2>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/logan-velier</h3>
 <p align="left">
 </p>
 
