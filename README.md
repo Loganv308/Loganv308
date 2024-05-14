@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Logan Velier</h1>
 <h3 align="center">A passionate Backend developer from Wisconsin</h3>
 
-- 🌱 I’m currently learning **SQLite3, Java, Javascript, Python**
+- 🌱 I’m currently learning **Java Spring MVC & Spring Boot, Python Back-end Development, etc**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Loganv308](https://github.com/Loganv308?tab=repositories)
 
-- 💬 Ask me about **C++, C#, Java, Python, SQL, DevOps, JS.**
+- 💬 Ask me about **Java, Python, C++, C#, SQL, DevOps, Javascript**
 
-- 📫 How to reach me **loganv308@gmail.com / velierl@lakeland.edu**
+- 📫 How to reach me **loganv308@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
