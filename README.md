@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Logan Velier</h1>
 <h3 align="center">A passionate Backend developer from Wisconsin</h3>
 
-- 🌱 I’m currently learning **Java Spring MVC & Spring Boot, Python Back-end Development, etc**
+- 🌱 I’m currently learning **Java Spring, Maven, MVC & Spring Boot, Python Back-end Development, etc**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Loganv308](https://github.com/Loganv308?tab=repositories)
 
