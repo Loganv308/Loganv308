@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Logan Velier</h1>
-<h3 align="center">A passionate Backend developer from Wisconsin</h3>
+<h3 align="center">A passionate full-stack developer from Wisconsin</h3>
 
 - 🌱 I’m currently learning **Java JDBC-SQlite, Maven, MVC & Spring Boot, Python Back-end Development, etc**
 
