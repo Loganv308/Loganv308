@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Loganv308](https://github.com/Loganv308?tab=repositories)
 
-- 💬 Ask me about **Java, Python, C++, C#, SQL, JavaScript, Dev-Ops, Git / Gitlab**
+- 💬 Ask me about **Java, Python, C++, C#, SQL, JavaScript, Dev-Ops, Git / Gitlab, Data Engineering, ETL Pipelines**
 
 - 📫 How to reach me **loganv308@gmail.com**
 
