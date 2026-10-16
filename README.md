@@ -26,7 +26,7 @@
 | **ChatPipeline** | Fault-tolerant Twitch chat ingestion — collector buffers to SQLite (WAL) so ingestion survives database outages, sync process drains to Postgres | Python · asyncio · SQLite · PostgreSQL · Docker |
 | **AntonLabs Wiki** | Wiki that renders Obsidian-flavored markdown, with vault import, drag-and-drop ordering, and attachments; shipped as a single container | React · Vite · Express · PostgreSQL · GitHub Actions |
 | **TwitchAnalyticsBot** | Chat analytics dashboard backed by a tuned PostgreSQL instance (materialized views, pool caps, config tuning) | Python · TypeScript · Express · PostgreSQL |
-| **Chomik** | Desktop pet for Windows, rebuilt in Avalonia, with an AES-256 multi-pass secure file shredder | C# · .NET · Avalonia |
+| **[PgPort](https://github.com/Loganv308/PgPort)** | Browser-based SQL console for PostgreSQL with a read-only safety model, server-side paging, a schema browser, and streaming CSV/JSON/XML exports | C# · ASP.NET Core 8 · Npgsql · Docker |
 
 ---
 
