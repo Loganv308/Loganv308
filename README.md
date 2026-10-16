@@ -1,66 +1,102 @@
 <h1 align="center">Logan Velier</h1>
-<h3 align="center">Full-Stack Developer &nbsp;·&nbsp; Wisconsin</h3>
- 
+<h3 align="center">Software Engineer &nbsp;·&nbsp; Backend, DevOps & Security &nbsp;·&nbsp; Wisconsin</h3>
+
 <p align="center">
-  <a href="https://linkedin.com/in/logan-velier"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  &nbsp;
-  <a href="https://github.com/Loganv308"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/></a>
-  &nbsp;
-  <a href="mailto:loganv308@gmail.com"><img src="https://img.shields.io/badge/loganv308@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/logan-velier"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:loganv308@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
- 
-Passionate about building things end-to-end — from data pipelines and ETL infrastructure to full-stack web applications. I care about clean architecture, scalable backends, and shipping things that actually work. Ask me about **Java, Python, C++, C#, SQL, JavaScript, Dev-Ops, Data Engineering,** or **ETL Pipelines**.
- 
+
 ---
- 
-### 🛠 Languages
- 
+
+### 👋 About
+
+- 🏢 Software Engineer at **Acuity Insurance**, building document composition systems — **OpenText Exstream**, XML pipelines, and **GitLab CI/CD** automation
+- 🏠 Run **AntonLabs**, a self-hosted homelab where most of my side projects live (Proxmox, Docker, Nginx, Tailscale, VLAN-segmented UniFi network)
+- 🛡️ Moving toward **cybersecurity** — starting an M.S. in Cybersecurity & Information Assurance at WGU, and practicing in the lab with Wazuh, Sysmon, and an Active Directory attack/defense environment
+- 🧱 I like building things end-to-end: data ingestion → database → API → UI → container → deployed
+
+---
+
+### 🚀 Featured Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[LogStream](https://github.com/Loganv308/Forge-modules)** | Self-hosted log aggregation platform with live streaming and drop-in client libraries for Python (async), TypeScript, and Java (Maven) | React · TypeScript · Express · PostgreSQL · WebSockets |
+| **MediaFlow** | Media transcoding pipeline that scans a NAS, re-encodes video with NVENC GPU acceleration, and shows live job progress | Java · Spring Boot · FFmpeg · PostgreSQL · React |
+| **ChatPipeline** | Fault-tolerant Twitch chat ingestion — collector buffers to SQLite (WAL) so ingestion survives database outages, sync process drains to Postgres | Python · asyncio · SQLite · PostgreSQL · Docker |
+| **AntonLabs Wiki** | Wiki that renders Obsidian-flavored markdown, with vault import, drag-and-drop ordering, and attachments; shipped as a single container | React · Vite · Express · PostgreSQL · GitHub Actions |
+| **TwitchAnalyticsBot** | Chat analytics dashboard backed by a tuned PostgreSQL instance (materialized views, pool caps, config tuning) | Python · TypeScript · Express · PostgreSQL |
+| **Chomik** | Desktop pet for Windows, rebuilt in Avalonia, with an AES-256 multi-pass secure file shredder | C# · .NET · Avalonia |
+
+---
+
+### 🛡️ Homelab & Security
+
+```text
+AntonLabs
+├── Proxmox ─────────── LXC / VMs for services and databases
+├── UniFi ───────────── VLAN segmentation, DMZ zone
+├── Nginx ───────────── reverse proxy for self-hosted apps
+├── Tailscale + PiHole ─ remote access & DNS
+├── Wazuh + Sysmon ──── endpoint monitoring / SIEM
+└── AD Lab ──────────── tiered admin model, GPO hardening, Kerberoasting practice
+```
+
+---
+
+### 🛠 Tech Stack
+
+**Languages**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
-![Scala](https://img.shields.io/badge/Scala-DC322F?style=flat&logo=scala&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat&logo=ruby&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
- 
-### 🧩 Frameworks & Libraries
- 
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+
+**Backend & Frontend**
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Rails](https://img.shields.io/badge/Rails-CC0000?style=flat&logo=rubyonrails&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
- 
-### 🗄 Databases
- 
+
+**Data**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
- 
-### ⚙️ DevOps & Tools
- 
+![XML](https://img.shields.io/badge/XML_Pipelines-005A9C?style=flat&logo=xml&logoColor=white)
+
+**DevOps & Infra**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
- 
-### ☁️ Cloud
- 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
- 
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+
+**Security**
+![Wazuh](https://img.shields.io/badge/Wazuh-005571?style=flat&logo=wazuh&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat&logo=windows&logoColor=white)
+![Tailscale](https://img.shields.io/badge/Tailscale-242424?style=flat&logo=tailscale&logoColor=white)
+![Pi-hole](https://img.shields.io/badge/Pi--hole-96060C?style=flat&logo=pihole&logoColor=white)
+
 ---
- 
+
+### 📊 GitHub Stats
+
 <p align="center">
-  <a href="https://github.com/Loganv308?tab=repositories">View all my projects →</a>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Loganv308&show_icons=true&hide_border=true&theme=transparent" alt="GitHub stats"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Loganv308&layout=compact&hide_border=true&theme=transparent" alt="Top languages"/>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Loganv308?tab=repositories"><b>Browse all repositories →</b></a>
 </p>
